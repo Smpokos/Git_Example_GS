@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Git_Example_GS</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">Hello from the other side</string>
+    <string name="action_settings">Menu</string>
 </resources>
